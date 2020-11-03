@@ -1,0 +1,33 @@
+th{
+    border: 2px solid blue;
+    padding: 20px;
+    background-color:antiquewhite;
+    color: black;
+}
+td{
+    border:2px solid blue;
+    padding:20px;
+    background-color: darkgrey;
+    color: white;
+    font-size: 100;
+    font-family:monospace;
+}
+img{
+    width:100px;
+    height:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
